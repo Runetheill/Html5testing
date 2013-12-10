@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+  <head>
+  	<meta charset="utf-8">
+    <title>Rune Theill own personal profile </title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+	      }
+      html, body
+      	{
+        height: 100%;
+        width: 100%;
+      		}
+      h1, h2, h3, h4
+      {
+        padding: 1em;
+      }
+      p img {
+        width:40%; 
+        float:right;
+        margin-left: 0.7em;
+        margin-bottom: 1em;
+        margin-top: 1em;
+        border: 5px dashed black;
+        padding: 3px;
+      }
+      p
+      {
+        line-height: 1.7em;
+      }
+      
+      .new
+        {
+          background-color: white;
+        }
+      
+      article
+      {
+        background: url("http://www.hdwallpapersview.com/wp-content/uploads/2013/02/safari1.jpg");
+        background-size: 100% auto; 
+       background-color: white;
+        min-height: 100%;
+        margin-left: 10%;
+        margin-right: 10%;
+      }
+      table td
+      {
+        border: 1px solid black;
+        text-align: center;
+        padding: 0.4em;
+        background-color: white;
+        padding: 10px 5px 1px 10px
+        align: center;
+      }
+      table {
+        border: 1px solid white;
+      }
+ 
+    </style>
+  </head>
+  <body>
+  	<article>
+    <h1> Welcome to Rune's profile</h1>
+       <h4>Yes, it is me on the picture... </h4>
+    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pretium et nisl nec vestibulum. Sed at placerat mi, non pulvinar ante. Ut placerat velit nulla, sit amet fermentum nunc iaculis eget. Curabitur nunc orci, laoreet nec tristique in, convallis vitae turpis. Etiam at purus a ligula condimentum convallis vel ac ante. Pellentesque ac est eros. Ut dictum odio ac purus sagittis, et interdum dui egestas. Duis facilisis lectus ut lorem condimentum vehicula. Donec scelerisque ipsum nisl, non aliquam arcu posuere vel.
+              <a href="http://www.linkedin.com/in/runetheill"><img src="http://angora-humor.webbyen.dk/billed.asp?PrivatBilled=3666213"></a></p>
+      <h4><a href="rockstart.com/accelerator/"> Let's rock and roll</a></h4><br>
+      <a href="mailto:info@rockstart.com">Mail me, please!</a>
+<br>
+      <br>
+      <table>
+        	<tr>
+              <td>Dutch</td>
+              <td>Rockstart</td>
+        	</tr>
+	        <tr>
+              <td>Good</td>
+              <td>Times</td>
+        	</tr>
+	        <tr>
+              <td>Stay</td>
+              <td>Hungry</td>
+        	</tr>
+      </table>
+    
+    <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis arcu augue, porta sit amet dictum in, cursus a nisl. In at est congue, dignissim ipsum in, vulputate magna. In suscipit dictum mauris sollicitudin lacinia. Pellentesque sagittis, tortor ut aliquam porta, est ipsum gravida erat, at tincidunt justo justo quis est. In mattis cursus sem quis porttitor. Nullam vel sem eu dolor vestibulum tempor. In hac habitasse platea dictumst. Proin auctor luctus mollis. Pellentesque egestas diam in urna rutrum, eu posuere purus imperdiet. Duis blandit sodales nunc, sed volutpat orci faucibus a. Duis blandit purus at odio consequat auctor. Maecenas arcu ligula, suscipit a viverra a, porttitor et erat. Nullam volutpat non nunc quis congue.
+    </p>
+      <br>
+      <p class="new">
+        the best mistake I ever made....
+      </p>
+    <p>Make something amazing with the web</p>
+    <div> There migth be a different way of making this working </div>
+    <p> It is clear </p>
+    </article>
+  </body>
+</html>
